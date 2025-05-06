@@ -1,4 +1,4 @@
-# Python Workshop
+# Python Workshop (Start Here)
 
 Welcome to the Mines Chemistry Department Programming Workshop!  
 
