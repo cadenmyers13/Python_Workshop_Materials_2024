@@ -22,9 +22,9 @@ We will have a monthly drop-in meeting if you want help with code during the sem
   
 **Details:**  
 The Python Primer consists of 3 sub-modules:  
-* [`0.0 Software Installation`](https://github.com/Mines-Python-Workshop/Python_Workshop_Materials/blob/main/Python_Primer/0.0_python_primer_software_installation.md) – installing python, dependencies and text editor  
-* [`0.1 Syntax Fundamentals`](https://github.com/Mines-Python-Workshop/Python_Workshop_Materials/blob/main/Python_Primer/0.1_python_primer_syntax_fundamentals.ipynb) – basic loops, types, functions and python philosophy  
-* [`0.2 Package Installation and Management`](https://github.com/Mines-Python-Workshop/Python_Workshop_Materials/blob/main/Python_Primer/0.2_python_primer_package_installation_and_management.md) – how to handle problematic installations and read documentation
+* [`0.0 Software Installation`](./Python_Primer/0.0_python_primer_software_installation.md) – installing python, dependencies and text editor  
+* [`0.1 Syntax Fundamentals`](./Python_Primer/0.1_python_primer_syntax_fundamentals.ipynb) – basic loops, types, functions and python philosophy  
+* [`0.2 Package Installation and Management`](./Python_Primer/0.2_python_primer_package_installation_and_management.md) – how to handle problematic installations and read documentation
   
 Day 1 consists of 4 sub-modules:
 * [`1.1 Loading Data from External Files`](./Workshop_Day1/1.1_day1_external_data_files.md) – text files, etc
